@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/it-school.iml" filepath="$PROJECT_DIR$/it-school.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recap/recap.iml" filepath="$PROJECT_DIR$/recap/recap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session10/session10.iml" filepath="$PROJECT_DIR$/session10/session10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session11/session11.iml" filepath="$PROJECT_DIR$/session11/session11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session13/session13.iml" filepath="$PROJECT_DIR$/session13/session13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session14/session14.iml" filepath="$PROJECT_DIR$/session14/session14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session15/session15.iml" filepath="$PROJECT_DIR$/session15/session15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session16/session16.iml" filepath="$PROJECT_DIR$/session16/session16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session18/session18.iml" filepath="$PROJECT_DIR$/session18/session18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session19/session19.iml" filepath="$PROJECT_DIR$/session19/session19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session4/session4.iml" filepath="$PROJECT_DIR$/session4/session4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session5/session5.iml" filepath="$PROJECT_DIR$/session5/session5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session6/session6.iml" filepath="$PROJECT_DIR$/session6/session6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session7/session7.iml" filepath="$PROJECT_DIR$/session7/session7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session8/session8.iml" filepath="$PROJECT_DIR$/session8/session8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session9/session9.iml" filepath="$PROJECT_DIR$/session9/session9.iml" />
+    </modules>
+  </component>
+</project>
