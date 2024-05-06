@@ -1,4 +1,4 @@
-package com.itschool.homework.ex2;
+package com.itschool.course.homework.ex2;
 
 public class HomeworkEx2Main {
 
